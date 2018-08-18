@@ -1,1 +1,0 @@
-Website to help district 207 adjust to the block schedule. Developed by Evan Yang.
